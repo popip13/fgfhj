@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+ main img{
+    border: 5px solid black;
+}
+footer{
+    background-color: black;
+
+}
+footer p{
+    color: white;
+}
+
+
